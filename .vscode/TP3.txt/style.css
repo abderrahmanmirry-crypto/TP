@@ -1,0 +1,43 @@
+body {
+    font-family: Arial;
+    background-color: #ecf0f1;
+}
+
+.cv {
+    width: 70%;
+    margin: auto;
+    background: white;
+    display: flex;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.left {
+    width: 30%;
+    background: #2c3e50;
+    color: rgb(23, 13, 13);
+    padding: 20px;
+    text-align: center;
+}
+
+.left img {
+    width: 120px;
+    border-radius: 50%;
+}
+
+.left h2 {
+    margin-top: 10px;
+}
+
+.right {
+    width: 70%;
+    padding: 20px;
+}
+
+h3 {
+    color: #3498db;
+    border-bottom: 2px solid #3498db;
+}
+
+ul {
+    padding-left: 20px;
+}

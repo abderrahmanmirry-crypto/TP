@@ -1,0 +1,13 @@
+.container {
+    display: flex;        /* كيحط العناصر جنب جنب */
+    gap: 30px;            /* مسافة بينهم */
+    justify-content: center; /* توسيط */
+}
+
+.box {
+    width: 150px;
+    background-color: #f4f4f4;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
